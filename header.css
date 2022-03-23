@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link Link{
+    display: flex;
+    padding: 10px;
+}
+
+Link{
+    color: rebeccapurple;
+    text-decoration: none;
+}
